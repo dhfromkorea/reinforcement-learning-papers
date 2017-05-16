@@ -7,8 +7,10 @@
 Scalable Alternative to Reinforcement Learning](https://blog.openai.com/evolution-strategies/)
 
 * [Trust Region Policy Optimization](https://arxiv.org/abs/1502.05477/)
+https://arxiv.org/pdf/1604.00289.pdf
 
-
+Variational Information Maximisation for Intrinsically Motivated Reinforcement Learning
+https://arxiv.org/abs/1509.08731
 
 Deep Successor Reinforcement Learning
 https://arxiv.org/abs/1606.02396
@@ -46,7 +48,7 @@ https://arxiv.org/abs/1703.01310v1
 Micro-Objective Learning : Accelerating Deep Reinforcement Learning through the Discovery of Continuous Subgoals
 https://arxiv.org/abs/1703.03933v1
 
-
+https://pathak22.github.io/noreward-rl/resources/icml17.pdf
 
 https://github.com/yandexdataschool/AgentNet
 https://github.com/Kaixhin/Atari

@@ -2,8 +2,8 @@
 
 * **Title**: Playing Atari with Deep Reinforcement Learning
 * **Authors**: Volodymyr Mnih1 et al (Deepmind)
-* **Link**: hhttp://files.davidqiu.com/research/nature14236.pdf
-* **Year**: 2015
+* **Link**: https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf
+* **Year**: 2013
 
 ## TL;DR
 * known to be the first paper to showcase a successfully trained DQN to beat many Atari games.
